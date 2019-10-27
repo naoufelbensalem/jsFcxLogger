@@ -1,0 +1,21 @@
+{
+  "name": "jsFcxLogger",
+  "version" : "1.0.0",
+  "description": "API Javascript for CJSA Logger",
+  "main": "",
+  "authors": [
+    "Antoine Souchet"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jsFcxLogger"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

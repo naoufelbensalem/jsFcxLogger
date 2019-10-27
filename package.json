@@ -1,0 +1,15 @@
+{
+  "name": "jsFcxLogger.js",
+  "version": "1.0.0",
+  "description": "JS API for CJSA Logger ",
+  "files": [
+    "jsFcxLogger.js",
+    "jsFcxLogger.min.js"
+  ],
+  "keywords": [
+    "jsFcxLogger"
+  ],
+  "dependencies": {
+    "jsFcxLogger": "^1.0.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "jsFcxLogger",
+  "version": "1.0.0",
+  "description": "API Javascript for CJSA Logger",
+  "main": "",
+  "authors": [
+    "Antoine Souchet"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jsFcxLogger"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "34334"
+  },
+  "_source": "http://svnred.ncr.com/svn/repos/ea/aptcon/tools/ps-fcx-api/trunk/jsFcxLogger",
+  "_target": "1.0.0",
+  "_originalSource": "jsFcxLogger"
+}
